@@ -1,6 +1,10 @@
 # python020
 python020基于Django的学生信息管理系统
-一、关键词
+ 
+## 查看主页获取源码
+
+
+### 一、关键词
 
 教务系统、学生管理系统
 
@@ -52,3 +56,14 @@ Python：Python3.9
 <br/>
 
 ### 六、运行截图
+
+![cover.png](./cover.png)
+![1.png](./1.png)
+![2.png](./2.png)
+![3.png](./3.png)
+![4.png](./4.png)
+![5.png](./5.png)
+![6.png](./6.png)
+![7.png](./7.png)
+![8.png](./8.png)
+
